@@ -91,3 +91,25 @@ La *inteligencia artificial* es la rama de la informática que estudia y diseña
 ---
 
 En síntesis, la inteligencia artificial es un campo multidisciplinario que combina teoría de la información, matemáticas, psicología cognitiva, neurociencia y ética para desarrollar agentes autónomos y colaborativos. Su desarrollo continúa impulsado por avances en hardware (GPUs, TPUs), algoritmos y la disponibilidad masiva de datos, lo que promete transformar casi todas las áreas de la ciencia, la industria y la sociedad.
+
+
+
+____
+
+____
+
+
+===== Modelo: openai/gpt-oss-20b =====
+1. **Organizador de tareas domésticas** – una app que analiza tu rutina, detecta patrones de desorden y sugiere recordatorios inteligentes para limpiar o ordenar cada zona en momentos óptimos del día.  
+2. **Asistente de compras de supermercado** – una IA que, a partir de tus recetas y hábitos de consumo, crea listas de compra automáticas y detecta descuentos o promociones en tiempo real, evitando compras duplicadas.  
+3. **Gestor de gastos y recordatorio de pagos** – un chatbot que rastrea tus facturas y sus vencimientos, envía avisos anticipados y sugiere planes de ahorro personalizados según tus hábitos de gasto.
+
+===== Modelo: openai/gpt-oss-120b =====
+1. **Asistente de gestión de compras domésticas**  
+   - Un modelo de IA que analice tus historiales de compra y patrones de consumo para generar automáticamente listas de la compra, sugerir sustitutos económicos y optimizar el gasto semanal.
+
+2. **Aplicación de organización de horarios familiares**  
+   - Un agente conversacional que integre los calendarios de todos los miembros del hogar, detecte conflictos y proponga horarios óptimos para actividades comunes (cenas, tareas, eventos), enviando recordatorios inteligentes.
+
+3. **Detector de consumo energético en tiempo real**  
+   - Un algoritmo de aprendizaje automático que, a partir de datos de sensores IoT y facturas eléctricas, identifique los electrodomésticos que más consumen, detecte usos ineficientes y ofrezca recomendaciones para reducir la factura y la huella de carbono.
